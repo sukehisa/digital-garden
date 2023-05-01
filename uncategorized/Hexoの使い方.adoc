@@ -1,0 +1,18 @@
+---
+title: Hexoの使い方
+tags:
+---
+
+
+== VSCode上の操作
+記事の生成::
+* Shift+Command+P -> hexo new
+
+記事のgenerate&deploy
+....
+$ hexo generate -d
+$ hexo deploy
+....
+
+== ドキュメント
+* https://hexo.io/docs/writing.html[Writing | Hexo]
