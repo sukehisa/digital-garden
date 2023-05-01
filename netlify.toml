@@ -23,6 +23,7 @@ SITE_URL = "https://public-brain.netlify.app/"
 # (Optional) Site Timezone
 TIMEZONE = "Asia/Tokyo"
 ZOLA_VERSION = "0.15.2"
+STRICT_LINE_BREAKS = "y"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
 # (Optional) Google Analytics Measurement ID
@@ -34,7 +35,7 @@ HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
 PAGE_GRAPH = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
-SIDEBAR_COLLAPSED = "y"
+SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
 FOOTER = ""
 # (Optional, default main) Root section name.
