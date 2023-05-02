@@ -1,13 +1,12 @@
+---
+aliases: []
+tags: []
+publish: true
+date: 2023-05-01T12:19:01+09:00
+updated: 2023-05-02T21:09:43+09:00
+---
 
 # ./20211017の調べ.md
----
-title: 20211017の調べ
-categories: []
-date: 2021-10-17 14:44:23
-updated:
-tags:
----
-
 
 ## UNYSYS技報 
 - No146 ハイブリッドクラウドの最新動向　を読んで
@@ -223,7 +222,7 @@ CAP 定理の意図は本来、設計者にこのトレードオフを真剣に�
     - `P`は？
 - やっぱり、この2つ選ぶというのはミスリーディングである。
 
-- [Please stop calling databases CP or AP — Martin Kleppmann’s blog](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.
+- [Please stop calling databases CP or AP — Martin Kleppmann’s blog](<https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.>
 html)
     - Pは、犠牲にする・しない　という問題じゃない。インターネットは常にこの問題をはらむ
     
