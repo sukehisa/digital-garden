@@ -52,11 +52,12 @@ updated: 2023-05-02T20:59:42+09:00
 	- Pre-built binariesをbin配下に置いている
 
 ## Enhancement
-### Core Files
+### Core Concepts
 - Contents側
 	- netlify.toml
 	- 
 - Platform側
+	- Zola uses the [Tera](https://tera.netlify.com/) template engine
 	- config.toml
 		- templatesの中からも使われている
 ### Features
