@@ -5,14 +5,24 @@ publish: true
 date: 2023-05-01T14:11:05+09:00
 updated: 2023-05-02T20:59:42+09:00
 ---
+# My Obsidian環境
 
----
-date: "2023-04-01"
-updated: "2023-05-01"
-draft: false
----
+## Plugins
 
-## Digital Gardenの構築
+| Plugin | 役割 |
+| ------ | ---- |
+| Linter |      |
+|        |      |
+
+# Digital Gardenの構築
+## Context
+- Obsidian & Chat GPTを調べてるとき、[louis030195/obsidian\-ava: Quickly format your notes with ChatGPT in Obsidian](https://github.com/louis030195/obsidian-ava)を見ていて、[Antifragility \- louis030195](https://brain.louis030195.com/Computing/Antifragility)　に行き着いた。Obsidian Publishを知る。
+- そこから、Digital GardenやPKMといった概念を知る（普段自分がやっていたことに名前がついた気持ち）
+- 日本のDigital Gardenな人と思われる人たち
+	- [Home \- nNodes](https://notes.naney.org/Home)
+	- [Home \- Minerva](https://minerva.mamansoft.net/Home)
+
+## Build
 - 良いプラットフォームの候補たち
 	- [10 Obsidian Publish Alternatives to Publish Your Notes Online for Free \| Medium](https://beingpax.medium.com/7-obsidian-publish-alternatives-to-publish-your-notes-online-for-free-33db4fb06f5)
 - 要件
@@ -24,9 +34,7 @@ draft: false
 		- 最初にこれを試したが、ToCとか検索ができず、別のを探すことに
 	- [theowenyoung/gatsby\-theme\-primer\-wiki: A Gatsby Theme for Wiki/Docs/Knowledge Base, which using Primer style as the UI theme, can work well with Foam or Obsibian or just markdown files\.](https://github.com/theowenyoung/gatsby-theme-primer-wiki)
 	- 全文検索ができなさそうなので、却下した
-- 日本のDigital Gardenな人と思われる人たち
-	- [Home \- nNodes](https://notes.naney.org/Home)
-	- [Home \- Minerva](https://minerva.mamansoft.net/Home)
+
 
 ## 構成
 ### コンテンツ側
