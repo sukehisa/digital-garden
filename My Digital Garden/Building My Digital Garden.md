@@ -50,3 +50,18 @@ updated: 2023-05-02T20:59:42+09:00
 	- 例えば
 		- Note embedding  e.g. ```![[xxx]]```
 	- Pre-built binariesをbin配下に置いている
+
+## Enhancement
+### Core Files
+- Contents側
+	- netlify.toml
+	- 
+- Platform側
+	- config.toml
+		- templatesの中からも使われている
+### Features
+|                                                                              |     |
+| ---------------------------------------------------------------------------- | --- |
+| [[ddd-001 モバイル表示のハンバーガーメニュにもセクションが出るようにしたい]] |     |
+| [[ddd-002 ページごとのグラフをToCの方に移動したい]]                        |     |
+| [[ddd-003 MermaidのDiagramも表示できるようにしたい]]                         |     |
