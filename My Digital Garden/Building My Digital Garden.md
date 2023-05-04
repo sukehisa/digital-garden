@@ -3,16 +3,17 @@ aliases: []
 tags: []
 publish: true
 date: 2023-05-01T14:11:05+09:00
-updated: 2023-05-02T20:59:42+09:00
+updated: 2023-05-04T10:34:10+09:00
 ---
 # My Obsidian環境
 
+
 ## Plugins
 
-| Plugin | 役割 |
-| ------ | ---- |
-| Linter |      |
-|        |      |
+| Plugin   | 役割 |
+| -------- | ---- |
+| Linter   |      |
+| Footnote |      |
 
 # Digital Gardenの構築
 ## Context
