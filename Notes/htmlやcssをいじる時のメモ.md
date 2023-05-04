@@ -9,7 +9,7 @@ updated: 2023-05-04T12:43:44+09:00
 - htmlやCSSの各種タグやプロパティの意味を調べるには[MDN Web Docs](https://developer.mozilla.org/ja/)で検索するのが早い
 
 ## CSS selector
-a
+
 ### selectorの使い分け
 - [CSS 複数のセレクタを指定する/絞り込むサンプル \| ITSakura](https://itsakura.com/css-multi-selector#s2)
 
