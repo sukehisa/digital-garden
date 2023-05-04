@@ -25,3 +25,20 @@ Example checklist:
 -  `ul ~ ul` - _**Looking outside**_ - Selects **all the following** `ul`'s, but both `ul`'s should be having the same parent; [**General sibling combinator**](https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator) / [**Subsequent-sibling combinator**](https://www.w3.org/TR/selectors-3/#general-sibling-combinators)
 
 [^1]: [What does the "~" \(tilde/squiggle/twiddle\) CSS selector mean? \- Stack Overflow](https://stackoverflow.com/questions/10782054/what-does-the-tilde-squiggle-twiddle-css-selector-mean)
+
+
+## Bootstrap
+### col-lg-5 col-xl-4 order-md-3 のようなものを理解する
+- グリッドオプション
+	- col は幅
+	- orderは順序
+	- 
+| breakpoint |         |
+| ---------- | ------- |
+| xs         | <576px  |
+| sm         | ≥576px  |
+| md         | ≥768px  |
+| lg         | ≥992px  |
+| xl         | ≥1200px |
+| xxl        | ≥1400px |
+
