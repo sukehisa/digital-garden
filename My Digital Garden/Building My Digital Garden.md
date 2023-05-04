@@ -3,7 +3,7 @@ aliases: []
 tags: []
 publish: true
 date: 2023-05-01T14:11:05+09:00
-updated: 2023-05-04T10:34:10+09:00
+updated: 2023-05-04T12:50:33+09:00
 ---
 # My Obsidian環境
 
@@ -54,13 +54,22 @@ updated: 2023-05-04T10:34:10+09:00
 
 ## Enhancement
 ### Core Concepts
-- Contents側
+#### Contents側
 	- netlify.toml
 	- 
-- Platform側
-	- Zola uses the [Tera](https://tera.netlify.com/) template engine
-	- config.toml
-		- templatesの中からも使われている
+#### Platform側
+- Zola uses the [Tera](https://tera.netlify.com/) template engine
+- config.toml
+	- templatesの中からも使われている
+- templates
+	- docs/ 配下が実際に使われるtemplate (page と section用)
+		- convert.pyで各mdファイルのfrontmatterに書き込む
+	- 
+```mermaid
+
+```
+
+
 ### Features
 |                                                                              |     |
 | ---------------------------------------------------------------------------- | --- |
