@@ -3,7 +3,7 @@ aliases: []
 tags: []
 publish: true
 date: 2023-05-04T17:18:16+09:00
-updated: 2023-05-05T10:53:54+09:00
+updated: 2023-05-05T13:14:08+09:00
 ---
 
 # ChagGPT Integration
@@ -12,8 +12,9 @@ updated: 2023-05-05T10:53:54+09:00
 - Input
 	- text, image (non GA)
 
-- API Keyの発行 [こちら](https://platform.openai.com/signup/)
 
+- API Keyの発行 [こちら](https://platform.openai.com/signup/)
+- 
 ## 環境
 - Azure OpenAI Serviceを調べる
 	- [\[比較表\] Azure OpenAIと本家OpenAI APIの比較表](https://zenn.dev/microsoft/articles/e0419765f7079a)
