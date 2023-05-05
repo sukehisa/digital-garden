@@ -3,7 +3,7 @@ aliases: []
 tags: []
 publish: true
 date: 2023-05-01T14:11:05+09:00
-updated: 2023-05-04T12:50:33+09:00
+updated: 2023-05-05T10:16:22+09:00
 ---
 # My Obsidian環境
 
@@ -14,6 +14,7 @@ updated: 2023-05-04T12:50:33+09:00
 | -------- | ---- |
 | Linter   |      |
 | Footnote |      |
+| Jump to link         | Vim easymotionのように任意の箇所にカーソルを移動できる     |
 
 # Digital Gardenの構築
 ## Context
