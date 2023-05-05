@@ -3,15 +3,25 @@ aliases: []
 tags: []
 publish: true
 date: 2023-05-04T17:18:16+09:00
-updated: 2023-05-05T10:09:44+09:00
+updated: 2023-05-05T10:53:54+09:00
 ---
 
 # ChagGPT Integration
-## Obsidian
-[different\-ai/embedbase: Hook LLMs to your data](https://github.com/different-ai/embedbase)
 
+## Chat GPT 4 Interface
+- Input
+	- text, image (non GA)
 
-[[Baby AGI]], Chat GPT Orchastration
+- API Keyの発行 [こちら](https://platform.openai.com/signup/)
+
+## 環境
+- Azure OpenAI Serviceを調べる
+	- [\[比較表\] Azure OpenAIと本家OpenAI APIの比較表](https://zenn.dev/microsoft/articles/e0419765f7079a)
+	- ```お客様から提供されたトレーニングデータは、お客様のモデルのfine-tuning (微調整)にのみ使用される。```
+	- Enterpriseではこれが使えそう・・
+- hosted by OpenAI (GA)
+
+## [[Baby AGI]], Chat GPT Orchastration
 - Implementation
 	- [hwchase17/langchain: ⚡ Building applications with LLMs through composability ⚡](https://github.com/hwchase17/langchain)
 	- [Significant\-Gravitas/Auto\-GPT: An experimental open\-source attempt to make GPT\-4 fully autonomous\.](https://github.com/Significant-Gravitas/Auto-GPT)
@@ -31,6 +41,10 @@ updated: 2023-05-05T10:09:44+09:00
 	- Actionを実行する
 		- (Optional) 人間の許可を介在させる
 	- 実行結果をStore/管理する
+
+## Integration with Obsidian 
+[different\-ai/embedbase: Hook LLMs to your data](https://github.com/different-ai/embedbase)
+
 
 # ChatGPTに多くの情報をinputする方法を知りたい
 - Embedbaseのように batch add した上で、chat gptとのcontextを作っていくと思われる

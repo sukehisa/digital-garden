@@ -2,6 +2,12 @@
 # 2023/05/05
 - Baby AGI系について試す
 	- [[fff-001 ChatGPT]]
+- Auto GPT venturing
+	- git cloneで無限ループしたけど、これができたら良いな・・
+		- [\(238\) AutoGPT just OBLITERATED all Traders \- YouTube](https://www.youtube.com/watch?v=JWELpf_5JvU&t=1s&ab_channel=MoonDev)
+	- [Auto\-GPTでCakePHP4の簡単なWebアプリケーションを作ってみた \- Qiita](https://qiita.com/daishiro_jp/items/18077e429ed9b2626f7c)
+
+小さなタスクを具体的なゴールで支持する　範囲でのみ効果的だと思われる。
 
 # 2023/05/01
 ## Digital Gardenの構築
