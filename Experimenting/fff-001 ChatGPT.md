@@ -11,8 +11,6 @@ updated: 2023-05-05T13:14:08+09:00
 ## Chat GPT 4 Interface
 - Input
 	- text, image (non GA)
-
-
 - API Keyの発行 [こちら](https://platform.openai.com/signup/)
 - 
 ## 環境
