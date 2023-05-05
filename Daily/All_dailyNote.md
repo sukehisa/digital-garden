@@ -1,4 +1,8 @@
 
+# 2023/05/05
+- Baby AGI系について試す
+	- [[fff-001 ChatGPT]]
+
 # 2023/05/01
 ## Digital Gardenの構築
 
