@@ -1,7 +1,7 @@
 
 # 2023/05/05
 - Baby AGI系について試す
-	- [[fff-001 ChatGPT]]
+	- [[fff-001 LLMs]]
 - Auto GPT venturing
 	- git cloneで無限ループしたけど、これができたら良いな・・
 		- [\(238\) AutoGPT just OBLITERATED all Traders \- YouTube](https://www.youtube.com/watch?v=JWELpf_5JvU&t=1s&ab_channel=MoonDev)

@@ -1,3 +1,3 @@
 # Chat GPT
 
-[[fff-001 ChatGPT]]
+[[fff-001 LLMs]]

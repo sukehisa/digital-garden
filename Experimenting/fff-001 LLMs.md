@@ -6,7 +6,7 @@ date: 2023-05-04T17:18:16+09:00
 updated: 2023-05-05T13:14:08+09:00
 ---
 
-# ChagGPT Integration
+# LLM-powered software, ChagGPT Integration
 
 ## Chat GPT 4 Interface
 - Input
