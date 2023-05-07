@@ -41,6 +41,10 @@ updated: 2023-05-05T13:14:08+09:00
 		- (Optional) 人間の許可を介在させる
 	- 実行結果をStore/管理する
 
+## Data Store for AGI
+- Embedbase
+- 
+
 ## Integration with Obsidian 
 [different\-ai/embedbase: Hook LLMs to your data](https://github.com/different-ai/embedbase)
 
