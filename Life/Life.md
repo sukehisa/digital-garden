@@ -3,7 +3,7 @@ aliases: []
 tags: []
 publish: true
 date: 2023-05-03T08:15:42+09:00
-updated: 2023-05-03T09:35:13+09:00
+updated: 2023-05-14T17:18:43+09:00
 ---
 
 I'm yusuke [^1]
@@ -21,3 +21,12 @@ I'm yusuke [^1]
 |          |                    |      |
 
 [^1]: aaa
+
+# 体のケア
+- 体を温める      
+	- 首、肩、腰、顔
+		- [桐灰の「あずきのチカラ」で蒸気のごほうび！](<https://www.kobayashi.co.jp/brand/azuchika/)>
+	- 湯船に浸かる
+	- 目を温める
+
+- 耳をぐるぐる回す
