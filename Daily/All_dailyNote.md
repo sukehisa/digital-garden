@@ -1,4 +1,10 @@
-
+## 2023/06/21
+- [グローバルインタプリタロック \- Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AA%E3%82%BF%E3%83%AD%E3%83%83%E3%82%AF)
+	- Pythonはこれを採用している。
+	- interpreter holds global lock, only 1 thread can run at time. 
+	- 本当に並列処理する場合は、インタプリタプロセス自体を複数にする必要あり
+	- 並列処理にくせがあるというのはこういうことかな？
+	- 
 # 2023/05/05
 - Baby AGI系について試す
 	- [[fff-001 LLMs]]
