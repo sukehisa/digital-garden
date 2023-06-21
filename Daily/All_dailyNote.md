@@ -4,6 +4,8 @@
 	- interpreter holds global lock, only 1 thread can run at time. 
 	- 本当に並列処理する場合は、インタプリタプロセス自体を複数にする必要あり
 	- 並列処理にくせがあるというのはこういうことかな？
+- pythonの None aware dereferencingは PEPな状態
+	- [PEP 505 – None\-aware operators \| peps\.python\.org](https://peps.python.org/pep-0505/)
 	- 
 # 2023/05/05
 - Baby AGI系について試す
