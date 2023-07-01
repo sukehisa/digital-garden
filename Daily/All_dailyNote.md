@@ -7,6 +7,7 @@ updated: 2023-07-01T10:30:03+09:00
 ---
 
 # 2023/07/01
+- [[Software Testing]]を "単体テストの考え方　使い方"を読みながらupdate
 
 # 2023/06/23
 ## Docker internal
