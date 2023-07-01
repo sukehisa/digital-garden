@@ -239,7 +239,7 @@ Test Management Tool
 | ------------------------------ | ------------ | ---------------- | ------------ |
 | Singleton, staticフィールド    | 共有依存     | Immutable        | プロセス内   |
 | Database                       | 共有依存     | Mutable          | プロセス外   |
-| ※tあまりない。ほとんどはMutable | 共有依存     | Immutable        | プロセス外   |
+| ※単体テストとしてはあまりない。ほとんどはMutable | 共有依存     | Immutable        | プロセス外   |
 | ※実際のPRJではほぼ無いはず     | 共有依存     | Mutable          | プロセス内   |
 |                                | プライベート | Immutable        | プロセス内   |
 |                                | プライベート | Mutable          | プロセス外   |
