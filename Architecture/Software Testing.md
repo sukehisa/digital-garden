@@ -6,8 +6,8 @@ date: 2023-07-01T10:24:26+09:00
 updated: 2023-07-01T10:25:17+09:00
 ---
 
-== SI　テスト
-=== 良いテストケースの条件
+# SI　テスト
+## 良いテストケースの条件
 * テスト要件とのトレースがとりやすい ⇒ テスト要件のカバレッジがわかる
 * どこに何が書いてあるかわかりやすくする ⇒ テストケースの漏れや重複を起こしにくくする
 * 適切な細かさで記載しやすくする ⇒ 誰がやっても同じテスト結果になる
@@ -18,34 +18,31 @@ updated: 2023-07-01T10:25:17+09:00
 [NOTE]
 出典：ソフトウェア・テスト PRESS Vol.1 
 
-=== Test Management Tool
-* <https://en.wikipedia.org/wiki/Test_management_tool#List_of_test_management_tools[Test> management tool - Wikipedia]
+Test Management Tool
+- <https://en.wikipedia.org/wiki/Test_management_tool#List_of_test_management_tools[Test> management tool - Wikipedia]
 
-== ソフトウェアテスト　（理論より）
-=== 良さそうな文献
+# ソフトウェアテスト　（一般論として）
+## 良さそうな文献
 * The Art of Software Testing
 * ソフトウェアテスト293の鉄則
 * システムテスト自動化 標準ガイド
 * IEEE829
 
 
-=== 定義
-テストとは::
-* ”実際どうなっているか”と”本来はどうあるべきか”を比較するプロセスのこと
-
-* IEEE Standard Glossary of Software Engineering Terminologyによる定義
-+
-----
+## 定義
+テストとは
+- ”実際どうなっているか”と”本来はどうあるべきか”を比較するプロセスのこと
+- IEEE Standard Glossary of Software Engineering Terminologyによる定義
+```
 ある特定の条件下でシステムまたはコンポーネントを操作するプロセスであり、その結果を観察または記録して、システムまたはコンポーネントのある側面を評価すること
-----
-** ここでいう”ある特定の条件”を具体化したものがテストケースである
+```
+ここでいう”ある特定の条件”を具体化したものがテストケースである
 
-* Systematic Software Testingによる定義
-+
-----
+- Systematic Software Testingによる定義
+```
 テストとは、テストされるソフトウェアの品質を測定して改善するために、テストウェアをエンジニアリングし、利用し、保守しながら、同時並行的に進めるライフサイクルプロセスである
-----
-** テストには、実行だけでなく、計画・分析・テストケース設計の観点も必要である
+```
+テストには、実行だけでなく、計画・分析・テストケース設計の観点も必要である
 
 === ブラックボックステスト
 ==== 同値クラステスト

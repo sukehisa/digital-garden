@@ -1,3 +1,10 @@
+---
+aliases: []
+tags: []
+publish: true
+date: 2023-03-12T11:11:23+09:00
+updated: 2023-07-01T10:30:03+09:00
+---
 
 # 2023/07/01
 
@@ -86,7 +93,7 @@ Chrome Extension with Chat GPT
 
 # 2023/03/18
 ## Miyadai
-- https://youtube.com/watch?v=aIhf1T2ayQc&si=EnSIkaIECMiOmarE&t=880
+- <https://youtube.com/watch?v=aIhf1T2ayQc&si=EnSIkaIECMiOmarE&t=880>
 - トクヴィル主義
 	- 民主主義の国家が健全である条件は、個人が自立していること（≒依存することによる思考停止に陥っていないこと）
 - 自立した個人は、自立した共同体（国家に依存しない共同体）が育てる。自立した共同体が国家を支える
