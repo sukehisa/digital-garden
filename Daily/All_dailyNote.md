@@ -8,6 +8,9 @@ updated: 2023-07-01T10:30:03+09:00
 
 # 2023/07/01
 - [[Software Testing]]を "単体テストの考え方　使い方"を読みながらupdate
+- 推薦されていたreference
+	- [Entity vs Value Object: the ultimate list of differences · Enterprise Craftsmanship](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/)
+	- [Amazon \| Dependency Injection Principles, Practices, and Patterns \| Seemann, Mark, Deursen, Steven van \| Software Development](https://www.amazon.co.jp/-/en/Mark-Seemann/dp/161729473X)
 
 # 2023/06/23
 ## Docker internal
