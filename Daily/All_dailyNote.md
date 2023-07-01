@@ -1,3 +1,25 @@
+
+# 2023/07/01
+## Reading Unit Testing
+- 依存
+	- 依存の種類 : 必ずどちらかになる
+		- 共有依存
+			- 複数のテストケースで使われている依存
+		- プライベート依存
+	- 依存のmutability
+		- 不変依存
+		- 可変依存
+
+| 例                          | 依存の共有 | 依存のmutability | プロセス内外 |
+| --------------------------- | ---------- | ---------------- | ------------ |
+| Singleton, staticフィールド | 共有依存   | Immutable        | プロセス内   |
+| Database                    | 共有依存   | Mutable          | プロセス外   |
+|                             |            |                  |              |
+| 読み取り専用API             | プライベート | Immutable        | プロセス外   |
+|                             |              |                  |              |
+
+
+
 # 2023/06/23
 ## Docker internal
 - [The internals and the latest trends of container runtimes \(2023\) \| by Akihiro Suda \| nttlabs \| Jun, 2023 \| Medium](https://medium.com/nttlabs/the-internals-and-the-latest-trends-of-container-runtimes-2023-22aa111d7a93)を読みながら
