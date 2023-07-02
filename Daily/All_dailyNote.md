@@ -8,6 +8,9 @@ updated: 2023-07-01T10:30:03+09:00
 
 
 # 2023/07/02
+[アーダール \- Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%80%E3%83%BC%E3%83%AB)
+- インドのマイナンバー。指紋や虹彩といった生体情報まで使える。
+
 # 2023/07/01
 - [[Software Testing]]を "単体テストの考え方　使い方"を読みながらupdate
 - 推薦されていたreference
