@@ -8,8 +8,12 @@ updated: 2023-07-01T10:30:03+09:00
 
 
 # 2023/07/02
-[アーダール \- Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%80%E3%83%BC%E3%83%AB)
-- インドのマイナンバー。指紋や虹彩といった生体情報まで使える。
+
+インドについて調べたい
+- [アーダール \- Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%80%E3%83%BC%E3%83%AB)
+	- インドのマイナンバー。指紋や虹彩といった生体情報まで使える。
+
+[国民識別番号 \- Wikipedia](https://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B0%91%E8%AD%98%E5%88%A5%E7%95%AA%E5%8F%B7)を見ると、個人番号はそりゃ必要だよね
 
 # 2023/07/01
 - [[Software Testing]]を "単体テストの考え方　使い方"を読みながらupdate
