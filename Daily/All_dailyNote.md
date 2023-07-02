@@ -15,6 +15,12 @@ updated: 2023-07-01T10:30:03+09:00
 
 [国民識別番号 \- Wikipedia](https://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B0%91%E8%AD%98%E5%88%A5%E7%95%AA%E5%8F%B7)を見ると、個人番号はそりゃ必要だよね
 
+
+
+[\(9\) 第130回　金融業界の話に要注意！実は簡単な為替の話 \- YouTube](https://www.youtube.com/watch?v=qTyx_eSyuW0&ab_channel=%E9%AB%99%E6%A9%8B%E6%B4%8B%E4%B8%80%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB)
+- 2国間の通貨の交換比率　≒　通貨の総量(マネタリーベース）の比率　に近くなってくる（国際金融　の理論）
+- 金融政策: お金をたくさん刷るか、刷らないか
+- 
 # 2023/07/01
 - [[Software Testing]]を "単体テストの考え方　使い方"を読みながらupdate
 - 推薦されていたreference
