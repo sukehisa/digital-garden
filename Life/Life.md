@@ -31,3 +31,9 @@ I'm yusuke [^1]
 
 - 耳をぐるぐる回す
 
+# デスク環境
+モニタ
+- [34WL750\-B \| モニター \| LGエレクトロニクス・ジャパン](https://www.lg.com/jp/monitor/lg-34WL750-B)
+- Macbookとの接続を考えると
+	- USB Type-C to HDMI 2.0 4 K（3840 x 2160）@ 60 Hz
+	- USB Type-C to USB Type-A 3.0（5 Gbps）
