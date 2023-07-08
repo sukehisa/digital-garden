@@ -32,6 +32,11 @@ I'm yusuke [^1]
 - 耳をぐるぐる回す
 
 # デスク環境
+
+- デスク
+	- [FlexiSpot\| 電動昇降式デスクE7 Pro](https://www.flexispot.jp/e7-pro.html)
+	- 
+
 モニタ
 - [34WL750\-B \| モニター \| LGエレクトロニクス・ジャパン](https://www.lg.com/jp/monitor/lg-34WL750-B)
 - Macbookとの接続を考えると最低、下記が必要
