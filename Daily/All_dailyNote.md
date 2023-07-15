@@ -13,7 +13,10 @@ updated: 2023-07-01T10:30:03+09:00
 - [\(37\) Stanford CS229: Machine Learning Course, Lecture 1 \- Andrew Ng \(Autumn 2018\) \- YouTube](https://www.youtube.com/watch?v=jGwO_UgTS7I&ab_channel=StanfordOnline)
 - MLの変化に応じて、毎年授業がupdateされている
 	- 当時はOctave(MATLABみたいなもの)から、Pythonベースになったり
-- 学生にチーム制を推奨している
+- 学生にチーム制(助け合いや共同プロジェクト）を推奨している
+- Prerequisiteは毎週　サポートのセッションがoptionalである
+- そもそも先生がGoogleやBaiduのAIチームの経験があるというすごさ
+- 冒頭で、MLがすでに一部の人たちのものではなく、pervasiveであると言って、Stanfordの卒業生は、あらゆる分野で実際に適応できる　と当たり前のようにいっていて、　これはやる気出るよな〜
 
 # 2023/07/02
 
