@@ -6,6 +6,14 @@ date: 2023-03-12T11:11:23+09:00
 updated: 2023-07-01T10:30:03+09:00
 ---
 
+# 2023/07/15
+## Andrew Ng CS229 revisit
+- 2011年に大学生の頃, courseraで受けたな〜
+	- [2011\_Stanford\_MachineLearning\_Statement\_Of\_Accomplishment\.pdf \- Google ドライブ](https://drive.google.com/file/d/1S7J9gn86OMaoGe53HnqiABuVFnkCpKJk/view?pli=1)
+- [\(37\) Stanford CS229: Machine Learning Course, Lecture 1 \- Andrew Ng \(Autumn 2018\) \- YouTube](https://www.youtube.com/watch?v=jGwO_UgTS7I&ab_channel=StanfordOnline)
+- MLの変化に応じて、毎年授業がupdateされている
+	- 当時はOctave(MATLABみたいなもの)から、Pythonベースになったり
+- 学生にチーム制を推奨している
 
 # 2023/07/02
 
