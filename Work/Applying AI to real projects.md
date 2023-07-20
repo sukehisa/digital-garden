@@ -28,3 +28,6 @@ updated: 2023-07-20T10:37:00+09:00
 # AI Projects 
 ## Workflow
 
+- これを思い出した
+[Machine Learning Operations \(MLOps\): Overview, Definition, and Architecture https://t\.co/2MHAoBjfRN https://t\.co/EEEXREPWLX」 / Twitter](https://twitter.com/suzatweet/status/1545685140822687746/photo/1)
+[\[2205\.02302\] Machine Learning Operations \(MLOps\): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302)
