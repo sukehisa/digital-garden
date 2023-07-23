@@ -28,8 +28,12 @@ I'm yusuke [^1]
 		- [桐灰の「あずきのチカラ」で蒸気のごほうび！](<https://www.kobayashi.co.jp/brand/azuchika/)>
 	- 湯船に浸かる
 	- 目を温める
-
+- ドライアイ
+	- [\(3\) 29）眼輪筋の筋トレ、ドライアイ解消法 \- YouTube](https://www.youtube.com/watch?v=zVrobK-bVoQ&list=PL8dvB_eGH_NLoEUFRHnjRFP6FODam6qfC&index=52&t=319s&ab_channel=hideoishikawa)
+		- 効果あった：瞬きが完全にできていない場合は、眼輪筋　が衰えている可能性あり。
 - 耳をぐるぐる回す
+- 腰痛
+	- [「腰痛」のトリセツ \- あしたが変わるトリセツショー \- NHK](https://www.nhk.jp/p/torisetsu-show/ts/J6MX7VP885/blog/bl/pnR8azdZNB/bp/p0krrm5ln1/)
 
 # デスク環境
 
