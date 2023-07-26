@@ -28,7 +28,7 @@ updated: 2023-07-20T10:37:00+09:00
 # 学習のロードマップ
 - [人工知能・深層学習を学ぶためのロードマップ – 東京大学松尾研究室 – Matsuo Lab](https://weblab.t.u-tokyo.ac.jp/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%83%BB%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92%E3%82%92%E5%AD%A6%E3%81%B6%E3%81%9F%E3%82%81%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/#title_2_a)
 
-
+- [AI For Everyone （すべての人のためのAIリテラシー講座） \- AIの基礎 \- Week 1 \| Coursera](https://www.coursera.org/learn/ai-for-everyone-ja/home/week/1)
 - [Titanic \- Machine Learning from Disaster \| Kaggle](https://www.kaggle.com/c/titanic)
 - [MIT Deep Learning 6\.S191](http://introtodeeplearning.com/)
 
