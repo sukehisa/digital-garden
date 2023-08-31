@@ -6,6 +6,58 @@ date: 2023-03-12T11:11:23+09:00
 updated: 2023-07-01T10:30:03+09:00
 ---
 
+# 2023/08/30
+## [Introducing ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
+- `enterprise-grade security and privacy,`  と言った時、何を指しているか？
+	- データのcontrolがあるということ
+	- OpenAI社が、そのdeployに関連するデータを使って、trainingなどしないこと
+	- encryption at rest(AES 256) and in transit(TLS1.2+)
+	- SOC 2 compliant
+- [ChatGPT API を基礎から理解する \- Qiita](https://qiita.com/PND/items/c9e9d449539a460515a4)
+	- 良いまとめだった
+- [Fine\-tuning \- OpenAI API](https://platform.openai.com/docs/guides/fine-tuning/use-a-fine-tuned-model)
+	- 知識自体の個別化は、難しそう。
+	- [LLMのファインチューニング で 何ができて 何ができないのか｜npaka](https://note.com/npaka/n/nec63c01f7ee8)
+- [Chat with Open Large Language Models](https://chat.lmsys.org/)
+	- いろんなLLMを試せる
+- [ChatGPTを使う前に知っておくべき「何を学習しているか」（Wedge（ウェッジ）） \- Yahoo\!ニュース](https://news.yahoo.co.jp/articles/62240832ffa3b00d18a196a1ab7e2a0c74e8f47f?page=2)
+
+
+embeddingsとは？
+- [［速報］Google、PostgreSQLにAI対応を組み込んだ「AlloyDB AI」発表、オンプレミスでも他社クラウドでも利用可能に。Google Cloud Next '23 － Publickey](https://www.publickey1.jp/blog/23/googlepostgresqlaialloydb_aigoogle_cloud_next_23.html)
+
+# 2023/08/27
+- [文章生成AI利活用に関するガイドライン](https://www.digitalservice.metro.tokyo.lg.jp/ict/pdf/ai_guideline.pdf)
+	- 東京都。いいね、どんどんみんな使おう
+- LLM Software Architecture, Design Patternが出てきている件
+	- [98\. LLMを活用したソフトウェアアーキテクチャと代表的なユースケース w/ ryohtaka \| fukabori\.fm](https://fukabori.fm/episode/98)
+	- MS用語だと　Copilot Stack:  AI infra - Model - Orchestrator - Copilot Frontend
+	- でも概念的にはこうなるなー。　e.g. gpt3.5 - langchain - Chat GPT
+	- [Microsoft の Copilot stack とは何か](https://zenn.dev/microsoft/articles/8974330fb534ef)
+	- そもそもチャットである必要はあるのか？　検索の下地にあるデータが結局重要。　その通りだな・・
+- 
+- 
+
+- [\(1\) Xユーザーのmizchiさん: 「今日ずっと考えてたフロントエンドの main\(\) が 合成関数だという記事を書きました。 https://t\.co/DvYmyP4ZBD」 / X](https://twitter.com/mizchi/status/1662123939781570560?s=12&t=0silruUD6NuwMo3wAwXjQA)
+
+# 2023/08/16
+[サーブレットを「JavaでのWebアプリケーションの基礎」として最初に勉強させるのをやめてあげてほしい \- きしだのHatena](https://nowokay.hatenablog.com/entry/2023/07/15/213831)
+- 確かに。
+- むしろ、Spring Boot以外に、　Quarkus・MicronautというFWが出てきていることを初めて知った。
+- あと、Jakarta EE 
+
+[無駄な議論を減らすために使ってる言葉 \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2016/06/29/193911)
+- こういう状況になった時に、俯瞰して　抽象化してまとめられるの　尊敬する。
+- その状況になっていることに気づいて、アクションとしてのvocabularyを持っておきたい。
+
+[自分の勉強や開発をできなくなった \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2021/08/16/155833)
+- わかる。以前は当たり前にやってたことができなくなって、自分を責める。
+
+[SpringBoot/Quarkus/Micronautの性能を検証してみた ～その1 起動編～ \- Taste of Tech Topics](https://acro-engineer.hatenablog.com/entry/2022/12/21/161101)
+- nice.  Spring Frameworkのエコシステムとか他の依存なければ、良いのでは。　要watch
+- [Native Image](https://www.graalvm.org/latest/reference-manual/native-image/)
+	- DIはReflectionを使っているから起動に時間がかかる。 この２つはReflectionを使わないDIを実現しているから、native image化もできる
+
 # 2023/07/15
 ## Andrew Ng CS229 revisit
 - 2011年に大学生の頃, courseraで受けたな〜
