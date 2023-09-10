@@ -6,6 +6,9 @@ date: 2023-03-12T11:11:23+09:00
 updated: 2023-07-01T10:30:03+09:00
 ---
 
+# 2023/09/10
+- [open\-interpreter/interpreter at main · KillianLucas/open\-interpreter · GitHub](https://github.com/KillianLucas/open-interpreter/tree/main/interpreter)
+	- おもしろい。仕組みが簡単
 # 2023/08/30
 ## [Introducing ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
 - `enterprise-grade security and privacy,`  と言った時、何を指しているか？
