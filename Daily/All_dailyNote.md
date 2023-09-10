@@ -9,6 +9,8 @@ updated: 2023-07-01T10:30:03+09:00
 # 2023/09/10
 - [open\-interpreter/interpreter at main · KillianLucas/open\-interpreter · GitHub](https://github.com/KillianLucas/open-interpreter/tree/main/interpreter)
 	- おもしろい。仕組みが簡単
+- [A Simple Framework for Architectural Decisions](https://www.infoq.com/articles/framework-architectural-decisions/?itm_source=infoq&itm_medium=popular_widget&itm_campaign=popular_content_list&itm_content=)
+	- Technology Radar for your company/team, Technology Standards, ADR
 # 2023/08/30
 ## [Introducing ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
 - `enterprise-grade security and privacy,`  と言った時、何を指しているか？
