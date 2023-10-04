@@ -1,3 +1,10 @@
+---
+aliases: []
+tags: []
+publish: true
+date: 2023-07-05T14:08:55+09:00
+updated: 2023-10-05T08:27:37+09:00
+---
 - OpenIC Connect
     - IDトークンを発行する仕様のこと
     - OAuth2.0の認可エンドポイントのリスポンスタイプ　を拡張
@@ -37,6 +44,6 @@
         - Authleteはエンドユーザ一位識別子を外部からもらって、アクセストークンとのひも付きを管理している
         - ユーザcredentialは持たない
     - やり方は色々ある
-        - ID+Password, MFA, 指紋, ...
+        - ID+Password, MFA, 指紋, …
 - Deploy Pattern
     - [Deployment and Hosting Patterns in OAuth \| by Justin Richer \| Medium](https://justinsecurity.medium.com/deployment-and-hosting-patterns-in-oauth-a1666dc0d966)

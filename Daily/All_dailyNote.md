@@ -5,7 +5,9 @@ publish: true
 date: 2023-03-12T11:11:23+09:00
 updated: 2023-07-01T10:30:03+09:00
 ---
-
+# 2023/10/05
+[10 Abstract Class and Interface Interview Questions Answers in Java](https://javarevisited.blogspot.com/2013/04/10-abstract-class-and-interface-interview-question-java-answers.html)
+[Javaインターフェースメモ\(Hishidama's Java Interface Memo\)](https://www.ne.jp/asahi/hishidama/home/tech/java/interface.html)
 # 2023/09/10
 - [open\-interpreter/interpreter at main · KillianLucas/open\-interpreter · GitHub](https://github.com/KillianLucas/open-interpreter/tree/main/interpreter)
 	- おもしろい。仕組みが簡単
