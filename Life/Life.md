@@ -33,6 +33,9 @@ updated: 2023-05-14T17:18:43+09:00
 - ドライアイ
 	- [\(3\) 29）眼輪筋の筋トレ、ドライアイ解消法 \- YouTube](https://www.youtube.com/watch?v=zVrobK-bVoQ&list=PL8dvB_eGH_NLoEUFRHnjRFP6FODam6qfC&index=52&t=319s&ab_channel=hideoishikawa)
 		- 効果あった：瞬きが完全にできていない場合は、眼輪筋　が衰えている可能性あり。
+- ストレッチ
+	- [いのちの輝き―フルフォード博士が語る自然治癒力 \| フルフォード,ロバート・C\., ストーン,ジーン, Fulford,Robert C\., Stone,Gene, 圭一, 上野 \|本 \| 通販 \| Amazon](https://www.amazon.co.jp/%E3%81%84%E3%81%AE%E3%81%A1%E3%81%AE%E8%BC%9D%E3%81%8D%E2%80%95%E3%83%de95%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E5%8D%9A%E5%A3%AB%E3%81%8C%E8%AA%9E%E3%82%8B%E8%87%AA%E7%84%B6%E6%B2%BB%E7%99%92%E5%8A%9B-%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BBC-%E3%83%95%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89/dp/4881354647)の８章で紹介されている８つのストレッチ。結構効いている感覚がある。呼吸が楽になる
+	- 
 - 耳をぐるぐる回す
 - 腰痛
 	- [「腰痛」のトリセツ \- あしたが変わるトリセツショー \- NHK](https://www.nhk.jp/p/torisetsu-show/ts/J6MX7VP885/blog/bl/pnR8azdZNB/bp/p0krrm5ln1/)
