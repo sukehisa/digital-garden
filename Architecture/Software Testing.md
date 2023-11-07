@@ -3,7 +3,7 @@ aliases: []
 tags: []
 publish: true
 date: 2023-07-01T10:24:26+09:00
-updated: 2023-07-01T10:25:17+09:00
+updated: 2023-11-08T07:49:55+09:00
 ---
 
 # SI　テスト
@@ -260,7 +260,7 @@ Test Management Tool
 
 ## テストピラミッド
 ![[Pasted image 20230930091438.png]]
-- 単体テストではビジネスシナリオにおける以上ケースをできるだけ多く検証し、「結合テスト」では、1件のhappy pathと単体テストでは検証できない全ての異常ケースを検証することが適切だと考えられている
+- 「単体テスト」ではビジネスシナリオにおける異常ケースをできるだけ多く検証し、「結合テスト」では、1件のhappy pathと単体テストでは検証できない全ての異常ケースを検証することが適切だと考えられている
 - ドメインモデル（ビジネスロジック、複雑さを扱う層）　は単体テスト　でテストし、コントローラに対する検証は統合テストで行う
 - モックの利用は統合テストに限定する
 	- ビジネスロジック　と　連携を指揮する（コントローラ）　部分を分離する　という基本原則が前提
@@ -392,27 +392,30 @@ Hexagonal Architectureを考えてみると
 ### Individual Topics
 private methodのテストを書くべきか?
 - 自動テストのターゲットとなるのは「外部から見た振る舞い」であり、このブログでは「プライベートなメソッドのテストを書く必要は 無い」としている。一般的にはこの結論に私は賛成
-	- https://t-wada.hatenablog.jp/entry/should-we-test-private-methods[プライベートメソッドのテストは書かないもの？ - t-wadaのブログ]
+	- <https://t-wada.hatenablog.jp/entry/should-we-test-private-methods[プライベートメソッドのテストは書かないもの？> - t-wadaのブログ]
 	- 内部の実装（private method)に対するテストはリファクタリングの妨げになりがちです。自動テストの助けを借りて積極的にリファクタリングを行いたいのに、その自動テストがリファクタリングの妨げになる。これはとても皮肉な状況であり、避けられれば避けたいものです。このような状況は「構造的結合が強い」と表現されます。
-	- http://shoulditestprivatemethods.com/[Should I Test Private Methods?]
+	- <http://shoulditestprivatemethods.com/[Should> I Test Private Methods?]
 まとめ資料
-- https://employment.en-japan.com/engineerhub/entry/2019/10/03/103000[「単体テスト」再入門！ 開発の現場でバグを確実に洗い出す最適な手法と、テストケースの作り方 - エンジニアHub｜若手Webエンジニアのキャリアを考える！]
+- <https://employment.en-japan.com/engineerhub/entry/2019/10/03/103000[「単体テスト」再入門！> 開発の現場でバグを確実に洗い出す最適な手法と、テストケースの作り方 - エンジニアHub｜若手Webエンジニアのキャリアを考える！]
 
 Ginkgo
 
 JavaのUT::
 * Mockito
-** https://static.javadoc.io/org.mockito/mockito-core/3.0.0/org/mockito/Mockito.html[Mockito (Mockito 3.0.0 API)]
+** <https://static.javadoc.io/org.mockito/mockito-core/3.0.0/org/mockito/Mockito.html[Mockito> (Mockito 3.0.0 API)]
 
 
 # Integration Testing （統合テスト）
 ## Integration Testとは何か？
 - 単体テストの持つ３つの性質のうち、１つでも損なっている場合は、統合テストである
+
 >- 単体（Unit）　となる少量のコードを検証すること
 >- 実行時間が短いこと
 >- 隔離された状態で実行されること
+
+
 - ほぼ全ての場合、システムがプロセス外依存と統合した状態で意図したように機能するか　を検証する
-- 明確な定義はないが、一般的には、「1個下2個のプロセス外依存を扱う）
+- 明確な定義はないが、一般的には、「1個か2個のプロセス外依存を扱う）
 	- DBやファイルシステムなどの開発者が完全に制御できる　プロセス外依存を　対象にする
 	- e.g. 一方、外部決済サービスは一般的には制御ができないため、テストダブルに置き換える
 
