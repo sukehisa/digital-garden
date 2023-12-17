@@ -3,10 +3,9 @@ aliases: []
 tags: []
 publish: true
 date: 2023-05-01T14:11:05+09:00
-updated: 2023-07-01T12:19:05+09:00
+updated: 2023-12-17T18:11:23+09:00
 ---
 # My Obsidian環境
-
 
 ## Plugins
 
@@ -37,13 +36,13 @@ updated: 2023-07-01T12:19:05+09:00
 	- [theowenyoung/gatsby\-theme\-primer\-wiki: A Gatsby Theme for Wiki/Docs/Knowledge Base, which using Primer style as the UI theme, can work well with Foam or Obsibian or just markdown files\.](https://github.com/theowenyoung/gatsby-theme-primer-wiki)
 	- 全文検索ができなさそうなので、却下した
 
-
 ## 構成
 ### コンテンツ側
 - [sukehisa/digital\-garden](https://github.com/sukehisa/digital-garden)
 	- ここにコンテンツを溜めていく。
 	- Obsidianで書いていく場所
-
+	- localのメモ環境はMac OSなので、定期的にcrontabでpushする
+		- crontab
 ### Platform側
 - [sukehisa/obsidian\-zola: A no\-brainer solution to turning your Obsidian PKM into a Zola site\.](https://github.com/sukehisa/obsidian-zola)
 	- ZolaというSSGツールのプラットフォーム側
