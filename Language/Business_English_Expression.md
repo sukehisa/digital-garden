@@ -3,7 +3,7 @@ aliases: []
 publish: true
 title: よく使うビジネス英語表現集
 date: 2019-03-03 15:51:07
-updated: 2023-12-17T17:59:32+09:00
+updated: 2023-12-17T18:02:04+09:00
 categories: [Resource]
 tags: 
 - 英語学習
