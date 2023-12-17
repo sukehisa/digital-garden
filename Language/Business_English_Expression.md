@@ -1,7 +1,9 @@
 ---
+aliases: []
+publish: true
 title: よく使うビジネス英語表現集
 date: 2019-03-03 15:51:07
-updated:
+updated: 2023-12-17T17:59:32+09:00
 categories: [Resource]
 tags: 
 - 英語学習
@@ -12,7 +14,7 @@ tags:
 - [Microsoft Word \- Æì³óñˆq−P2021\_May24\.docx](https://www.ibm.com/downloads/cas/95W7L0JL)
 
 
-A key takeaway with this situation is ....
+A key takeaway with this situation is ….
 
 # 個人的によく使う/使えそうな表現をまとめる
 仕事の英語は比較的、型にはまってくるというのが実感したこと。各シチュエーションでの表現をまとめていく。（随時更新）
@@ -30,7 +32,7 @@ A key takeaway with this situation is ....
 ** I agree with your proposal to cut funding.
 
 望ましい::
-* It is more desirable/preferable ...
+* It is more desirable/preferable …
 
 ## 進捗を確認する
 * check in with 
@@ -60,7 +62,7 @@ A key takeaway with this situation is ....
 
 ## 話し始めの表現
 あまり詳しくは話さないが::
-* I don't wanna go deep into this, ...
+* I don't wanna go deep into this, …
 
 このアジェンダでは、オーバービューを話します::
 * We're going to go for a little bit more overview of the services that we're gonna be using. 
@@ -102,8 +104,8 @@ A key takeaway with this situation is ....
 * Ignore xx and yy for now, I'll explain that later. 
 
 極端な話、xxx::
-* This might be an extream example, but ...
-* This is something of an exaggeration, but ...
+* This might be an extream example, but …
+* This is something of an exaggeration, but …
 
 考え方をレビューしたい::
 * Before sending for approval, I want to double check my thought process with a colleague.

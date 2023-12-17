@@ -6,7 +6,12 @@ date: 2023-03-12T11:11:23+09:00
 updated: 2023-07-01T10:30:03+09:00
 ---
 
-## 2023/11/05
+# 2023/12/17
+- [競技Excel 〜Excelの腕自慢集まれ！〜](https://fukusen.org/excel-for-e-sports/)
+	- こんな世界があるのか、ちょっと面白そう
+- [ChatGPTはなぜ計算が苦手なのか](https://www.nii.ac.jp/event/upload/20230707-03_Minato.pdf)
+
+# 2023/11/05
 [Towards Modern Development of Cloud Applications](https://sigops.org/s/conferences/hotos/2023/papers/ghemawat.pdf)
 - 実感としても納得感がある。modular monolith から、下回りでサポートするecosystemがでてくるんだろうなー
 # 2023/10/07
