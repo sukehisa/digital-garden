@@ -8,23 +8,33 @@ updated: 2023-12-23T14:19:28+09:00
 
 # 2023/12/23
 ## JVM based language & serverless
-- 良かった
+- 起動を早くするためには、苦労が必要である。手段として、Graal VM Native imageやCRaCが挙げられる。
 	- [Scalaはもうだめなのか？…というかJVM言語がもうだめじゃん？｜sugitani](https://sizu.me/sugitani/posts/i2xm9z9u5xk3)
 	- [Java × サーバーレスは SaaS バックエンドとして通用するのか ? ~スタートアップの実戦記録~ \- builders\.flash☆ \- 変化を求めるデベロッパーを応援するウェブマガジン \| AWS](https://aws.amazon.com/jp/builders-flash/202310/java-serverless-saas-backend/?awsf.filter-name=*all)
-
-
-- JVM はクラウドネイティブ時代に合わない？
-	- serverless系でJVM baseのアプリが動くまでの流れは？起動に時間がかかる？
+	- 既存資産・体制・ナレッジを脇に置くと、そもそも、JVMベースの言語　を初めから使わない　方が　たしかに良さそう
+		- golangなど
+- JVM はクラウドネイティブ時代に合わない？serverless系でJVM baseのアプリが動くまでの流れは？起動に時間がかかる？
+	- 
 
 - java -jar のようにアプリを起動して終了したら JVM process　はexitし、loadされたclassやJITコンパイルの結果は再利用/キャッシュされない？
 
 
 - CRaCはserverless以外の環境（EC2など）でも使える技術？
+	- [CRaC/docs](https://github.com/CRaC/docs#crac)
 	- [CRaCによるJavaの高速化 \| 豆蔵デベロッパーサイト](https://developer.mamezou-tech.com/blogs/2022/12/02/jdk-crac/)
 		- すごい詳しい
 	- できるが、実行環境として商用サポートが有るものは無さそう
 		- AWS Lambdaくらい
 			- > AWSはLambdaで使われているJavaランタイム(Corretto11)に対し、AWSが独自にCRaCの成果をアドオンしてLambda SnapStartを実現しているものと思われます。ですので、このLambda SnapStartはCRaCをプロダクトレベルで使った初めての例になると思います。
+- Spring Bootは対応している？
+	- v3.2以降でサポートしているらしい
+		- [CRaC/docs](https://github.com/CRaC/docs?tab=readme-ov-file#spring-boot)
+
+## should we leave JVM base application?
+- [Why we moved from Kotlin & Spring Boot to Go](https://blog.astradot.com/why-we-moved-from-kotlin-spring-boot-to-go/)
+	- 起動も早い、使用するメモリ量やレイテンシが改善
+	- Java/Spring のアノテーションを使用した作りは、black boxになっていて、動きを追うことができなくなっている
+	- gradleの複雑さから開放された
 
 # 2023/12/17
 - [競技Excel 〜Excelの腕自慢集まれ！〜](https://fukusen.org/excel-for-e-sports/)
