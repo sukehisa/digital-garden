@@ -6,6 +6,18 @@ date: 2023-03-12T11:11:23+09:00
 updated: 2023-07-01T10:30:03+09:00
 ---
 
+# 2023/12/23
+## JVM based language & serverless
+- 良かった
+	- [Scalaはもうだめなのか？…というかJVM言語がもうだめじゃん？｜sugitani](https://sizu.me/sugitani/posts/i2xm9z9u5xk3)
+	- [Java × サーバーレスは SaaS バックエンドとして通用するのか ? ~スタートアップの実戦記録~ \- builders\.flash☆ \- 変化を求めるデベロッパーを応援するウェブマガジン \| AWS](https://aws.amazon.com/jp/builders-flash/202310/java-serverless-saas-backend/?awsf.filter-name=*all)
+
+
+- JVM はクラウドネイティブ時代に合わない？
+	- serverless系でJVM baseのアプリが動くまでの流れは？起動に時間がかかる？
+
+- java -jar のよう
+
 # 2023/12/17
 - [競技Excel 〜Excelの腕自慢集まれ！〜](https://fukusen.org/excel-for-e-sports/)
 	- こんな世界があるのか、ちょっと面白そう
