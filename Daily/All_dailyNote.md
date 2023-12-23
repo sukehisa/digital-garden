@@ -16,7 +16,11 @@ updated: 2023-07-01T10:30:03+09:00
 - JVM はクラウドネイティブ時代に合わない？
 	- serverless系でJVM baseのアプリが動くまでの流れは？起動に時間がかかる？
 
-- java -jar のよう
+- java -jar のようにアプリを起動して終了したら JVM process　はexitし、loadされたclassやJITコンパイルの結果は再利用/キャッシュされない？
+
+
+- CRaCはserverless以外の環境（EC2など）でも使える技術？
+	- [CRaCによるJavaの高速化 \| 豆蔵デベロッパーサイト](https://developer.mamezou-tech.com/blogs/2022/12/02/jdk-crac/)
 
 # 2023/12/17
 - [競技Excel 〜Excelの腕自慢集まれ！〜](https://fukusen.org/excel-for-e-sports/)
