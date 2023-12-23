@@ -3,7 +3,7 @@ aliases: []
 tags: []
 publish: true
 date: 2023-03-12T11:11:23+09:00
-updated: 2023-07-01T10:30:03+09:00
+updated: 2023-12-23T14:19:28+09:00
 ---
 
 # 2023/12/23
@@ -21,6 +21,10 @@ updated: 2023-07-01T10:30:03+09:00
 
 - CRaCはserverless以外の環境（EC2など）でも使える技術？
 	- [CRaCによるJavaの高速化 \| 豆蔵デベロッパーサイト](https://developer.mamezou-tech.com/blogs/2022/12/02/jdk-crac/)
+		- すごい詳しい
+	- できるが、実行環境として商用サポートが有るものは無さそう
+		- AWS Lambdaくらい
+			- > AWSはLambdaで使われているJavaランタイム(Corretto11)に対し、AWSが独自にCRaCの成果をアドオンしてLambda SnapStartを実現しているものと思われます。ですので、このLambda SnapStartはCRaCをプロダクトレベルで使った初めての例になると思います。
 
 # 2023/12/17
 - [競技Excel 〜Excelの腕自慢集まれ！〜](https://fukusen.org/excel-for-e-sports/)
