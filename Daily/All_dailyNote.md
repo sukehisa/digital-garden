@@ -13,23 +13,27 @@ updated: 2023-12-23T14:19:28+09:00
 		- [Scalaはもうだめなのか？…というかJVM言語がもうだめじゃん？｜sugitani](https://sizu.me/sugitani/posts/i2xm9z9u5xk3)
 		- [Java × サーバーレスは SaaS バックエンドとして通用するのか ? ~スタートアップの実戦記録~ \- builders\.flash☆ \- 変化を求めるデベロッパーを応援するウェブマガジン \| AWS](https://aws.amazon.com/jp/builders-flash/202310/java-serverless-saas-backend/?awsf.filter-name=*all)
 	- CRaC: Coordinated Restore at Checkpoint
+		- - [CRaC/docs](https://github.com/CRaC/docs#crac)
 	- 既存資産・体制・ナレッジを脇に置くと、そもそも、JVMベースの言語　を初めから使わない　方が　たしかに良さそう
 		- golangなど
 	- Graal VM compatibleなfwで最近出てきているのが　Quarkus
+
 - JVM はクラウドネイティブ時代に合わない？serverless系でJVM baseのアプリが動くまでの流れは？起動に時間がかかる？
 	- 
-
 - java -jar のようにアプリを起動して終了したら JVM process　はexitし、loadされたclassやJITコンパイルの結果は再利用/キャッシュされない？
 	- javaアプリのプロセスモデルは？
 
 
 - CRaCはserverless以外の環境（EC2など）でも使える技術？
-	- [CRaC/docs](https://github.com/CRaC/docs#crac)
-	- [CRaCによるJavaの高速化 \| 豆蔵デベロッパーサイト](https://developer.mamezou-tech.com/blogs/2022/12/02/jdk-crac/)
-		- すごい詳しい
+
+	- 参考
+		- [CRaCによるJavaの高速化 \| 豆蔵デベロッパーサイト](https://developer.mamezou-tech.com/blogs/2022/12/02/jdk-crac/)
+			- すごい詳しい
+		- [Lambda SnapStartを完全に理解してみた \- FLINTERS Engineer's Blog](https://blog.flinters.co.jp/entry/2023/02/21/122311)
 	- できるが、実行環境として商用サポートが有るものは無さそう
 		- AWS Lambda Snap Startくらい
 			- > AWSはLambdaで使われているJavaランタイム(Corretto11)に対し、AWSが独自にCRaCの成果をアドオンしてLambda SnapStartを実現しているものと思われます。ですので、このLambda SnapStartはCRaCをプロダクトレベルで使った初めての例になると思います。
+			- [firecracker/docs/snapshotting/snapshot\-support\.md at main · firecracker\-microvm/firecracker](https://github.com/firecracker-microvm/firecracker/blob/main/docs/snapshotting/snapshot-support.md)
 - Spring Bootは対応している？
 	- v3.2以降でサポートしているらしい
 		- [CRaC/docs](https://github.com/CRaC/docs?tab=readme-ov-file#spring-boot)
