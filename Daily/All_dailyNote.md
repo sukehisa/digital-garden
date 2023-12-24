@@ -6,6 +6,18 @@ date: 2023-03-12T11:11:23+09:00
 updated: 2023-12-23T14:19:28+09:00
 ---
 
+# 2023/12/24
+## deduction, induction, abduction
+
+- きっかけ
+	- https://x.com/asknbid/status/1738557398816530632?s=20
+- それぞれなんだっけ？
+	- [Deduction, Induction, Abduction：演繹、帰納、仮説形成 \| りんだろぐ rindalog](https://rindalog.blogspot.com/2017/04/deduction-induction-abduction.html)
+	- deduction (演繹法)
+	- induction (帰納法)
+	- abduction (仮説形成)
+	- analogy (類推)　もある
+
 # 2023/12/23
 ## JVM based language & serverless
 - 起動を早くするためには、苦労が必要である。手段として、Graal VM Native imageやCRaCが挙げられる。
