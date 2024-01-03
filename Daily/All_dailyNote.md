@@ -14,6 +14,8 @@ updated: 2023-12-24T15:01:33+09:00
 	- 良いツールを見つけられたー
 - [Nutlope/aicommits: A CLI that writes your git commit messages for you with AI](https://github.com/Nutlope/aicommits)
 - [さまざまなチャットAIを簡単にローカル環境で動かせるアプリ「Ollama」の公式Dockerイメージが登場 \- GIGAZINE](https://gigazine.net/news/20231021-ollama-docker/)
+- [CloudflareWorkersとは \#cloudflare \- Qiita](https://qiita.com/sakupa80/items/8ccb4e4e4c0f7846ab5c)
+- [colinhacks/zod: TypeScript\-first schema validation with static type inference](https://github.com/colinhacks/zod?tab=readme-ov-file#basic-usage)
 # 2023/12/24
 ## deduction, induction, abduction
 
