@@ -10,6 +10,8 @@ updated: 2023-12-24T15:01:33+09:00
 - 相場操縦行為
 	- [SBI証券｜株・FX・投資信託・確定拠出年金・NISA](https://site1.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_home&cat1=home&cat2=none&dir=info&file=home_attention_02.html#001)
 
+- [最近気に入っているOSSを淡々と紹介する](https://zenn.dev/noplan_inc/articles/3a623b2eb6d42d#ollama)
+	- 良いツールを見つけられたー
 # 2023/12/24
 ## deduction, induction, abduction
 
