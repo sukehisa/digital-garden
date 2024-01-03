@@ -12,6 +12,8 @@ updated: 2023-12-24T15:01:33+09:00
 
 - [最近気に入っているOSSを淡々と紹介する](https://zenn.dev/noplan_inc/articles/3a623b2eb6d42d#ollama)
 	- 良いツールを見つけられたー
+- [Nutlope/aicommits: A CLI that writes your git commit messages for you with AI](https://github.com/Nutlope/aicommits)
+- [さまざまなチャットAIを簡単にローカル環境で動かせるアプリ「Ollama」の公式Dockerイメージが登場 \- GIGAZINE](https://gigazine.net/news/20231021-ollama-docker/)
 # 2023/12/24
 ## deduction, induction, abduction
 
