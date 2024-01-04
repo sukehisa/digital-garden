@@ -6,6 +6,10 @@ date: 2023-03-12T11:11:23+09:00
 updated: 2023-12-24T15:01:33+09:00
 ---
 
+# 2024/01/04
+- [IPAexフォントおよびIPAフォントについて \| 一般社団法人 文字情報技術促進協議会](https://moji.or.jp/ipafont/)
+- [Google Colab](https://research.google.com/colaboratory/local-runtimes.html?hl=ja)
+	- local runtimeに接続する方法。知らなかった
 # 2024/01/03
 - 相場操縦行為
 	- [SBI証券｜株・FX・投資信託・確定拠出年金・NISA](https://site1.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_home&cat1=home&cat2=none&dir=info&file=home_attention_02.html#001)
