@@ -6,6 +6,12 @@ date: 2023-03-12T11:11:23+09:00
 updated: 2023-12-24T15:01:33+09:00
 ---
 
+# 2024/01/06
+- [What I Wish Someone Had Told Me \- Sam Altman](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
+> Working with great people is one of the best parts of life.
+> Outcomes are what count; don’t let good process excuse bad results.
+> It is easier for a team to do a hard thing that really matters than to do an easy thing that doesn’t really matter; audacious ideas motivate people.
+> Optimism, obsession, self-belief, raw horsepower and personal connections are how things get started.
 # 2024/01/04
 - [IPAexフォントおよびIPAフォントについて \| 一般社団法人 文字情報技術促進協議会](https://moji.or.jp/ipafont/)
 - [Google Colab](https://research.google.com/colaboratory/local-runtimes.html?hl=ja)
