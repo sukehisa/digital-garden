@@ -6,6 +6,13 @@ date: 2023-03-12T11:11:23+09:00
 updated: 2023-12-24T15:01:33+09:00
 ---
 
+# 2024/01/21
+- [httpie cheatsheet](https://devhints.io/httpie)
+- [express\-openapi\-validator/examples/1\-standard/services/index\.js at master · cdimascio/express\-openapi\-validator](https://github.com/cdimascio/express-openapi-validator/blob/master/examples/1-standard/services/index.js)
+- [node\.js \- Proxy with express\.js \- Stack Overflow](https://stackoverflow.com/questions/10435407/proxy-with-express-js)
+- [http\-proxy\-middleware/src at master · chimurai/http\-proxy\-middleware](https://github.com/chimurai/http-proxy-middleware/tree/master/src)
+- [JavaScript Primer \- 迷わないための入門書 \#jsprimer](https://jsprimer.net/)
+
 # 2024/01/06
 - [What I Wish Someone Had Told Me \- Sam Altman](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
 > Working with great people is one of the best parts of life.
