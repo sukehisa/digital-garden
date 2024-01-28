@@ -6,6 +6,17 @@ date: 2023-03-12T11:11:23+09:00
 updated: 2023-12-24T15:01:33+09:00
 ---
 
+# 2024/01/28
+## Open Interpreterで遊ぶ
+- 手元のMac m1で壊れても良い環境を作る
+	- limaを使う
+		- [lima\-vm/lima: Linux virtual machines, with a focus on running containers](https://github.com/lima-vm/lima)
+		- [Lima: macOS で Docker Desktop と Rancher Desktop 無しで Docker 環境を使う方法 \| DevelopersIO](https://dev.classmethod.jp/articles/lima-using-docker-on-macos-without-docker-rancher-desktop-app/)
+		- [MacでLimaを使ってDockerを動かしてみた \- エス・エム・エス エンジニア テックブログ](https://tech.bm-sms.co.jp/entry/2023/10/03/110000)
+	- [abiosoft/colima: Container runtimes on macOS \(and Linux\) with minimal setup](https://github.com/abiosoft/colima)
+		- 
+
+
 # 2024/01/21
 - [httpie cheatsheet](https://devhints.io/httpie)
 - [express\-openapi\-validator/examples/1\-standard/services/index\.js at master · cdimascio/express\-openapi\-validator](https://github.com/cdimascio/express-openapi-validator/blob/master/examples/1-standard/services/index.js)
