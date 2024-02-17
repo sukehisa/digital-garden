@@ -6,6 +6,14 @@ date: 2023-03-12T11:11:23+09:00
 updated: 2023-12-24T15:01:33+09:00
 ---
 
+# 2024/02/17
+## TiDB
+- mysql 互換、writeがスケールする
+[メルカリの本番環境で流れているクエリを使って、MySQL互換のTiDB Cloudを評価。40TBを越えるDBの大規模トラフィックに耐えられたか？［PR］ － Publickey](https://www.publickey1.jp/blog/24/mysqltidb_cloud40tbdbpr_1.html)
+
+
+[Code Tour を使ってじっくり確実にコードを読む](https://zenn.dev/ikuma/articles/reading-with-code-tour)
+
 # 2024/01/28
 ## Open Interpreterで遊ぶ
 - 手元のMac m1で壊れても良い環境を作る
