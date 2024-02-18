@@ -14,6 +14,9 @@ updated: 2023-12-24T15:01:33+09:00
 
 [Code Tour を使ってじっくり確実にコードを読む](https://zenn.dev/ikuma/articles/reading-with-code-tour)
 
+
+[マルチクラウド展開にまつわる既成概念を覆す](https://www.oracle.com/jp/news/announcement/blog/myths-of-multicloud-deployment-jp-2022-08-19/)
+[レイテンシ\(遅延\)とスループット\(帯域幅\)と帯域幅遅延積 \#oracle \- Qiita](https://qiita.com/shirok/items/5c39ef082a1a05404527)
 # 2024/01/28
 ## Open Interpreterで遊ぶ
 - 手元のMac m1で壊れても良い環境を作る
