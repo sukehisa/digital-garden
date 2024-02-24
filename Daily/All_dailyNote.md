@@ -36,6 +36,9 @@ updated: 2023-12-24T15:01:33+09:00
 
 日々発見されるセキュリティイシューで、塩漬けにし続けることも難しいし
 
+[\(58\) JSConf JP 2023「書いたJAVASCRIPTがそのままブラウザで動く未来へ / Sosuke Suzuki」 \- YouTube](https://www.youtube.com/watch?v=0tv8qwzZJts&t=1s&ab_channel=jsconfjp)
+- たしかに、始めてTypeScriptに触れたときは、同じことを感じた。結局、裏側で何が起きてるかわからない　的な
+
 # 2024/02/17
 ## TiDB
 - mysql 互換、writeがスケールする
