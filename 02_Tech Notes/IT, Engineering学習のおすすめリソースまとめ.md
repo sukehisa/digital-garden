@@ -1,8 +1,10 @@
 ---
+aliases: []
+publish: true
 title: IT Engineering学習のおすすめリソースまとめ
 categories: []
 date: 2022-10-08 19:06:08
-updated:
+updated: 2024-02-25T18:12:48+09:00
 tags:
 ---
 [寿司打 \- Play](https://sushida.net/play.html)
