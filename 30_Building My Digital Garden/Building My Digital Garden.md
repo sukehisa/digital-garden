@@ -43,6 +43,8 @@ updated: 2023-12-17T18:11:23+09:00
 	- Obsidianで書いていく場所
 	- localのメモ環境はMac OSなので、定期的にcrontabでpushする
 		- crontab
+- netlify.tomlファイル
+	- Platform側へのconfigを設定する
 ### Platform側
 - [sukehisa/obsidian\-zola: A no\-brainer solution to turning your Obsidian PKM into a Zola site\.](https://github.com/sukehisa/obsidian-zola)
 	- ZolaというSSGツールのプラットフォーム側
