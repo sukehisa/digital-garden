@@ -11,7 +11,7 @@ tags:
 # Learning
 ## Resource
 
-## white papers
+### Reports, state of something
 - context
 	- [texta\.fmの第11回「Favorite Technology Surveys」を公開しました！ \- てくすた](https://texta.pixta.jp/entry/2023/03/14/120000)
 - [Technology Radar \| An opinionated guide to today's technology landscape \| Thoughtworks](https://www.thoughtworks.com/radar)
@@ -21,7 +21,12 @@ tags:
 	- [Download the 2021 State of DevOps Report \| Puppet by Perforce](https://www.puppet.com/resources/state-of-devops-report)
 - [Stack Overflow Insights \- Developer Hiring, Marketing, and User Research](https://insights.stackoverflow.com/survey)
 - [The State of Developer Ecosystem in 2022 Infographic \| JetBrains: Developer Tools for Professionals and Teams](https://www.jetbrains.com/lp/devecosystem-2022/)
-- 
+- [🏆 The Top 100 Developer Tools of 2022 \| StackShare](https://stackshare.io/posts/top-developer-tools-2022)
+- [The State of Serverless \| Datadog](https://www.datadoghq.com/state-of-serverless/)
+
+### Podcasts
+- [fukabori\.fm](https://fukabori.fm/)
+- [texta\.fmの第11回「Favorite Technology Surveys」を公開しました！ \- てくすた](https://texta.pixta.jp/entry/2023/03/14/120000)
 
 
 # Data
