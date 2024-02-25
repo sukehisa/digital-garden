@@ -6,6 +6,11 @@ date: 2023-03-12T11:11:23+09:00
 updated: 2023-12-24T15:01:33+09:00
 ---
 
+# 2024/02/25
+[Twitter で医師を拾ってきて Google のソフトウェアエンジニアにするだけの簡単なお仕事 \- 白のカピバラの逆極限 S\.144\-3](https://nuc.hatenadiary.org/entry/2021/03/31)
+[スタートラインに立つためにはどうするのか \- Google スライド](https://docs.google.com/presentation/d/1Ny4kmHE2FZMI0AuPxImokweGoAE73RAGivjDJg0kG80/edit#slide=id.g24d79189c00_1_8)
+
+
 # 2024/02/24
 
 ## バッチ処理
