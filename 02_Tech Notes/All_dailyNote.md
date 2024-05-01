@@ -7,8 +7,11 @@ updated: 2023-12-24T15:01:33+09:00
 ---
 
 # 2024/05/01
-
+- [米国連邦政府におけるクラウド戦略 \- クラウドセキュリティをどう担保するか｜ミック](https://note.com/mickmack/n/n8aac06454ab4)
 - [セキュリティと情報共有のジレンマ \- 議事堂襲撃と国家機密｜ミック](https://note.com/mickmack/n/nd3d904a0b057)
+
+- service mesh, side car, istio, app mesh, openshift
+- [サービスメッシュについて理解する \| DevelopersIO](https://dev.classmethod.jp/articles/servicemesh/)
 # 2024/04/14
 [米国連邦政府におけるクラウド戦略「Cloud First」の失敗と教訓｜ミック](https://note.com/mickmack/n/nb7490866166c?sub_rt=share_pb#dae690e8-3bff-495f-a15e-b3b47e6efe11)
 
