@@ -10,6 +10,10 @@ updated: 2023-12-24T15:01:33+09:00
 - [米国連邦政府におけるクラウド戦略 \- クラウドセキュリティをどう担保するか｜ミック](https://note.com/mickmack/n/n8aac06454ab4)
 - [セキュリティと情報共有のジレンマ \- 議事堂襲撃と国家機密｜ミック](https://note.com/mickmack/n/nd3d904a0b057)
 
+
+[‘Gov Clouds’ During COVID\-19: The End of the Digital Fortress Era  \- Nextgov/FCW](https://www.nextgov.com/ideas/2020/06/gov-clouds-during-covid-19-end-digital-fortress-era/166151/)
+> can have up to an 18-month lag time in receiving new features.
+
 - service mesh, side car, istio, app mesh, openshift
 - [サービスメッシュについて理解する \| DevelopersIO](https://dev.classmethod.jp/articles/servicemesh/)
 # 2024/04/14
