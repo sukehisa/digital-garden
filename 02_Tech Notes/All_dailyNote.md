@@ -6,11 +6,14 @@ date: 2023-03-12T11:11:23+09:00
 updated: 2023-12-24T15:01:33+09:00
 ---
 
-# 2024/05/02
+# 2024/05
+## 2024/05/03
+[Snowflake の Copilot が優秀すぎる件について \| エクスチュア株式会社ブログ](https://ex-ture.com/blog/2024/05/02/snowflake-copilot-preview/)
+## 2024/05/02
 - 整理されている
 	- [作る技術・作らない技術 \| BIPROGY技報 \| BIPROGY株式会社](https://www.biprogy.com/tec_info/backnumber/65dca040081a45fc6dd8de243ad80b7ce7829566.html#thesis1)
 
-# 2024/05/01
+## 2024/05/01
 - [米国連邦政府におけるクラウド戦略 \- クラウドセキュリティをどう担保するか｜ミック](https://note.com/mickmack/n/n8aac06454ab4)
 - [セキュリティと情報共有のジレンマ \- 議事堂襲撃と国家機密｜ミック](https://note.com/mickmack/n/nd3d904a0b057)
 
