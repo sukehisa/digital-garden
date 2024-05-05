@@ -52,3 +52,7 @@ updated: 2023-05-05T13:14:08+09:00
 # ChatGPTに多くの情報をinputする方法を知りたい
 - Embedbaseのように batch add した上で、chat gptとのcontextを作っていくと思われる
 	- [BenさんはTwitterを使っています: 「No more homework\. Some of our users are using Embedbase for their homework 😂 Here's how they do it: a\) They upload their courses to Embedbase b\) they then askt their question on our ChatGPT playground c\) Embedbase automatically fetches the right answer from their courses and… https://t\.co/SxCutrHyjv」 / Twitter](https://twitter.com/hotkartoffel1/status/1653359527159267328)
+
+
+# GenAI + Engineering
+[実例で紹介するRAG導入時の知見と精度向上の勘所 \- Speaker Deck](https://speakerdeck.com/yamahiro/shi-li-deshao-jie-sururagdao-ru-shi-nozhi-jian-tojing-du-xiang-shang-nokan-suo?slide=75)
