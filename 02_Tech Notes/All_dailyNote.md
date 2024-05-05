@@ -7,6 +7,9 @@ updated: 2023-12-24T15:01:33+09:00
 ---
 
 # 2024/05
+## 2024/05/05
+[JavaScript Visualized \- Promise Execution](https://lydiahallie.framer.website/blog/promise-execution)
+- 分かりやすい
 ## 2024/05/03
 [Snowflake の Copilot が優秀すぎる件について \| エクスチュア株式会社ブログ](https://ex-ture.com/blog/2024/05/02/snowflake-copilot-preview/)
 ## 2024/05/02

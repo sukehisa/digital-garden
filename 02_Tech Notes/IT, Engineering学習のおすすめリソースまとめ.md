@@ -32,6 +32,15 @@ tags:
 - [fukabori\.fm](https://fukabori.fm/)
 - [texta\.fmの第11回「Favorite Technology Surveys」を公開しました！ \- てくすた](https://texta.pixta.jp/entry/2023/03/14/120000)
 
+# UI
+- [Components \| The Component Gallery](https://component.gallery/components/)
+	- component catalog
+
+# Language
+## JavaScript
+==RUNTIME==
+- [\(247\) JavaScript Visualized \- Event Loop, Web APIs, \(Micro\)task Queue \- YouTube](https://www.youtube.com/watch?v=eiC58R16hb8&ab_channel=LydiaHallie)
+- [JavaScript Visualized \- Promise Execution](https://lydiahallie.framer.website/blog/promise-execution)
 
 # Data
 ## SQL
