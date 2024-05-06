@@ -7,6 +7,9 @@ updated: 2023-12-24T15:01:33+09:00
 ---
 
 # 2024/05
+## 2024/05/06
+- [第1回　nonlocalでクロージャが便利に \| gihyo\.jp](https://gihyo.jp/dev/serial/01/pythonhacks/0001)
+	- > Pythonのクロージャには、外側の変数への代入ができないという制限がありました。
 ## 2024/05/05
 [JavaScript Visualized \- Promise Execution](https://lydiahallie.framer.website/blog/promise-execution)
 - 分かりやすい
