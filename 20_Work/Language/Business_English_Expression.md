@@ -23,6 +23,8 @@ A key takeaway with this situation is ….
 * 体制図: Organization Structure, org structure
 
 * 内訳： breakdown, details
+* 工業化と標準化
+	* huge amount of effort going  in the organization to **industrialize and formalize** that knowledge we've got, and put that in an accessible way to the front line of the organization.  
 
 ## 自分について話す
 * I do not limit myself to specific products, services. 
@@ -155,6 +157,7 @@ For example, “Write the report” is a firm command. Instead, a subjunctive-mo
 
 重要点、コアなポイントを聞く::
 * What resonated with you most from this talk, and why?
+* What are some key considerations that maybe have a little extra weight in this project. 
 
 興味、専門を聞く::
 * What is your passion in technology architecture?
