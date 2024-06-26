@@ -3,7 +3,7 @@ aliases: []
 publish: true
 title: よく使うビジネス英語表現集
 date: 2019-03-03 15:51:07
-updated: 2023-12-17T18:02:04+09:00
+updated: 2024-06-26T09:55:30+09:00
 categories: [Resource]
 tags: 
 - 英語学習
@@ -38,6 +38,9 @@ A key takeaway with this situation is ….
 * check in with 
 ** I’ll #check in with you# tomorrow to see how it went, but I’m confident you’ll have everything under control.
 
+## 議論の
+議論の中に論点がある
+- You and the client have mostly agreed on scope **with a few open points.** 
 
 ## スケジュール
 スケジュールが厳しい::
