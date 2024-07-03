@@ -6,6 +6,12 @@ date: 2023-03-12T11:11:23+09:00
 updated: 2023-12-24T15:01:33+09:00
 ---
 
+# 2024/07
+## 2024/07/03
+- [iPadに18禁ゲームをインストールする（ためのWebアプリを作る）](https://zenn.dev/kichikuou/articles/ef05c46e42fd67)
+	- 面白かった。18禁関係ない
+	- Emscripten, WASMすごい
+
 # 2024/05
 ## 2024/05/06
 - [第1回　nonlocalでクロージャが便利に \| gihyo\.jp](https://gihyo.jp/dev/serial/01/pythonhacks/0001)
