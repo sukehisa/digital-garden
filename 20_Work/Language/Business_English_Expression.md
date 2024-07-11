@@ -19,6 +19,12 @@ A key takeaway with this situation is ….
 # 個人的によく使う/使えそうな表現をまとめる
 仕事の英語は比較的、型にはまってくるというのが実感したこと。各シチュエーションでの表現をまとめていく。（随時更新）
 
+
+## to be categorized
+- I understand how important it is to get your colleagues on board. 
+- I will take this concern back to the team, define the likely objections and recommend how to address them. 
+- Let's work together to define the nature of each concern and how to mitigate them. 
+
 ## Vocabulary
 * 体制図: Organization Structure, org structure
 
