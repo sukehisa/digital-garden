@@ -7,6 +7,10 @@ updated: 2023-12-24T15:01:33+09:00
 ---
 
 # 2024/07
+## 2024/07/12
+- [Anthosの話についていくための最低限の知識をまとめてみた \| フューチャー技術ブログ](https://future-architect.github.io/articles/20210319/)
+- [Google Cloud Spanner vs\. TiDB Comparison](https://db-engines.com/en/system/Google+Cloud+Spanner%3BTiDB)
+- 
 ## 2024/07/03
 - [iPadに18禁ゲームをインストールする（ためのWebアプリを作る）](https://zenn.dev/kichikuou/articles/ef05c46e42fd67)
 	- 面白かった。18禁関係ない
