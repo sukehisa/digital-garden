@@ -154,9 +154,10 @@ For example, “Write the report” is a firm command. Instead, a subjunctive-mo
 
 
 ## 質問する
-根拠を確かめる::
+### 根拠を確かめる
 * what's the rationale for that?
 * Do you have any basis/reasoning/proof/grounds?
+* what background can you share with me about the fee reduction?
 
 気になった点を伝える::
 * I noticed xxxx
