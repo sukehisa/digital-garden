@@ -6,6 +6,13 @@ date: 2023-03-12T11:11:23+09:00
 updated: 2023-12-24T15:01:33+09:00
 ---
 
+# 2024/10
+## 2024/10/10
+- [8\. AWS Aurora、GCP Spannerへ辿り着くまでのDBの進化 \| fukabori\.fm](https://fukabori.fm/episode/8)
+	- ARISEという名前始めて聞いた。
+	- [TPC\-C Homepage](https://www.tpc.org/tpcc/)
+		- transaction db benchmark
+
 # 2024/07
 
 - [Comparison of server\-side web frameworks \- Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks#)
