@@ -1,8 +1,14 @@
 
 # Dreame
+
+H12 Pro
+- 価格: 4.7万 (4千円ポイント)
+- [Dreametech H12 Pro Wet and Dry Vacuum – Dreame Japan](https://www.dreametech.jp/products/dreametech-h12-pro-wet-and-dry-vacuum)
+
 [H12 Dual – Dreame Japan](https://www.dreametech.jp/products/h12-dual)
 - 浄水タンク: 900, 汚水: 700ml
 - 掃除機のユニットもついている
+- 
 - 価格: 5万円弱：　amazon black fridayしないかな・・？
 	- [Amazon \| Dreame \(ドリーミー\) H12 Core 水拭き掃除機 吸引＆水拭き2in1 スマートな汚れ認識 吸引力自動調整 音声ガイド 大容量900mL浄水タンク 軽量 静音 自走式 LEDディスプレイ 乾湿両用 コードレス 2つの運転モード モップ自動洗浄 専用洗剤 \| dreame \| スティッククリーナー 通販](https://www.amazon.co.jp/dp/B0CNJT8933/ref=sspa_dk_detail_1?pd_rd_i=B0C7GGDJG7&pd_rd_w=PDomm&content-id=amzn1.sym.31bc190b-6628-4227-9761-e497f162429c&pf_rd_p=31bc190b-6628-4227-9761-e497f162429c&pf_rd_r=VPGE290DXB77ZJ2ZXQ74&pd_rd_wg=0LABY&pd_rd_r=7f9b0b8d-903c-4113-afca-e051ac593069&s=kitchen&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1)
 
@@ -17,7 +23,10 @@
 
 # Tineco
 - Stretch S6
+	- 価格 : 6万円( 9000ポイント）)
+		- [【楽天市場】【ブラックフライデー限定！クーポン利用で59,999円！】Tineco（ティネコ）Floor One Stretch S6 水拭き掃除機 コードレスコンパクト設計 下重心設計 静音設計 軽量化 180°フラットに寝る構造 超長時間運転 パウチ電池 ホコリ自動検知メーカー二年保証：TINECO](https://item.rakuten.co.jp/tineco/stretchs6/)
 	- 浄水タンク: 800, 汚水: 720ml
+	- bodyが白くてカッコ悪い
 	- 自動クリーニング、乾燥　（双方向回転、 乾燥早い　70℃　5分）
 - Switch S6
 	- 掃除機のユニットもついてくる
