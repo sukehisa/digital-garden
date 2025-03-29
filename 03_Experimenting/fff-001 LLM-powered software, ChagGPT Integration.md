@@ -3,20 +3,27 @@ aliases: []
 tags: []
 publish: true
 date: 2023-05-04T17:18:16+09:00
-updated: 2023-05-05T13:14:08+09:00
+updated: 2025-03-29T11:47:53+09:00
 ---
 
 # LLM-powered software, ChagGPT Integration
 
 - [ClineとAIコーディングツールの現状 \- laiso](https://laiso.hatenablog.com/entry/2025/01/07/045009)
 	- 良いまとめ
+	- > その経験からの感想なんですが、精度に関しては既存のコードベースで日常的な業務プログラミングのタスクを実行するレベルには達していません。コンテキストに入る情報とその処理能力に限界を感じます。
+		- enterpriseでは、適切・明確に開発の単位を区切ってcontext量を制限することが重要になるはず
+- MCP：　LLM applicationを接続する
+	- [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
+	- [\(759\) Building Agents with Model Context Protocol \- Full Workshop with Mahesh Murag of Anthropic \- YouTube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg)
+	- ![[Pasted image 20250329114744.png]]
 ## Usecase
 - プログラミング系、Engineering
-	- コード補完, 
+	- コード補完
 	- Chat Assistance
 		- [Copilot Edits](https://code.visualstudio.com/docs/copilot/copilot-edits)
 	- Code generation
 	- Coding Agent
+		- Cline
 
 
 ## Chat GPT 4 Interface
