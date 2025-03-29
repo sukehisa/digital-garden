@@ -16,16 +16,22 @@ updated: 2025-03-29T11:47:53+09:00
 	- [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 	- [\(759\) Building Agents with Model Context Protocol \- Full Workshop with Mahesh Murag of Anthropic \- YouTube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg)
 	- ![[Pasted image 20250329114744.png]]
+
+- Local LLM 
+	- API利用のコストと、responseまでの時間のunstabilityで　利用が拡大していくはず
 ## Usecase
 - プログラミング系、Engineering
 	- コード補完
 	- Chat Assistance
-		- [Copilot Edits](https://code.visualstudio.com/docs/copilot/copilot-edits)
+
 	- Code generation
 	- Coding Agent
-		- Cline
 
-
+- tools
+	- [Copilot Edits](https://code.visualstudio.com/docs/copilot/copilot-edits)
+		- chat assistance, (preview) agent
+	- Cline : 
+	- Cursor : 専用IDE (vscode fork)
 ## Chat GPT 4 Interface
 - Input
 	- text, image (non GA)
