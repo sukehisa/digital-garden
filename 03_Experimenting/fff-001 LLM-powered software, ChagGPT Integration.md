@@ -32,6 +32,10 @@ updated: 2025-03-29T11:47:53+09:00
 		- chat assistance, (preview) agent
 	- Cline : 
 	- Cursor : 専用IDE (vscode fork)
+
+- ObsidianとのIntegration
+	- Copilotというプラグインが良かった
+
 ## Chat GPT 4 Interface
 - Input
 	- text, image (non GA)
