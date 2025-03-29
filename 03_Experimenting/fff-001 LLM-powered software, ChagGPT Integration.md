@@ -8,6 +8,17 @@ updated: 2023-05-05T13:14:08+09:00
 
 # LLM-powered software, ChagGPT Integration
 
+- [ClineとAIコーディングツールの現状 \- laiso](https://laiso.hatenablog.com/entry/2025/01/07/045009)
+	- 良いまとめ
+## Usecase
+- プログラミング系、Engineering
+	- コード補完, 
+	- Chat Assistance
+		- [Copilot Edits](https://code.visualstudio.com/docs/copilot/copilot-edits)
+	- Code generation
+	- Coding Agent
+
+
 ## Chat GPT 4 Interface
 - Input
 	- text, image (non GA)

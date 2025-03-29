@@ -320,7 +320,7 @@ embeddingsとは？
 	- 
 # 2023/05/05
 - Baby AGI系について試す
-	- [[fff-001 LLMs]]
+	- [[fff-001 LLM-powered software, ChagGPT Integration]]
 - Auto GPT venturing
 	- git cloneで無限ループしたけど、これができたら良いな・・
 		- [\(238\) AutoGPT just OBLITERATED all Traders \- YouTube](https://www.youtube.com/watch?v=JWELpf_5JvU&t=1s&ab_channel=MoonDev)

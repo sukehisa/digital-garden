@@ -7,7 +7,7 @@ updated: 2024-04-14T08:59:29+09:00
 ---
 # LLMs
 
-[[fff-001 LLMs]]
+[[fff-001 LLM-powered software, ChagGPT Integration]]
 
 ## 本質っぽいこと
 - LLMモデルの性能（回答精度、スピード、in/outの制約、コストなど）の良し悪しがあれど、現時点では100点の精度を保証することはできない
