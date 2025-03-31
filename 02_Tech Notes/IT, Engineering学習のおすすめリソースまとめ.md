@@ -4,11 +4,15 @@ publish: true
 title: IT Engineering学習のおすすめリソースまとめ
 categories: []
 date: 2022-10-08 19:06:08
-updated: 2024-02-25T18:12:48+09:00
+updated: 2025-03-31T14:27:09+09:00
 tags:
 ---
 
 # Learning
+
+## Roadmaps
+- Software Architect Roadmap
+	- [https://substack\-post\-media\.s3\.amazonaws\.com/public/images/67c39b9a\-9a91\-4e57\-9e24\-7714b4f806dd\_1280x1349\.gif \(1280×1349\)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67c39b9a-9a91-4e57-9e24-7714b4f806dd_1280x1349.gif?utm_source=substack&utm_medium=email)
 
 ## Architecture, System Design
 [GitHub \- ByteByteGoHq/system\-design\-101: Explain complex systems using visuals and simple terms\. Help you prepare for system design interviews\.](https://github.com/ByteByteGoHq/system-design-101)
