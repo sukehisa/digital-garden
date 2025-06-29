@@ -3,9 +3,9 @@ aliases: []
 tags: []
 publish: true
 date: 2023-05-04T17:17:46+09:00
-updated: 2024-04-14T08:59:29+09:00
+updated: 2025-06-29T12:46:47+09:00
 ---
-# LLMs
+# GenAI Utilization
 
 [[fff-001 LLM-powered software, ChagGPT Integration]]
 
@@ -45,3 +45,10 @@ updated: 2024-04-14T08:59:29+09:00
 		- コミュニケーションや人間の意思決定　の重要性が増す
 			- そもそもなぜ何をしたいのかを、定義・明文化していく
 			- [AI時代のITエンジニアの付加価値について \- NRIネットコムBlog](https://tech.nri-net.com/entry/value_of_it_engineers_in_the_age_of_ai)
+
+
+## Utilization Patterns
+- RAG
+	- Agentic RAG
+- ![[Pasted image 20250629124644.png]] 
+- [https://substack\-post\-media\.s3\.amazonaws\.com/public/images/f784d500\-c708\-457c\-a152\-fee43058cf97\_2360x2770\.jpeg \(2360×2770\)](https://substackcdn.com/image/fetch/$s_!dP3e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff784d500-c708-457c-a152-fee43058cf97_2360x2770.jpeg?utm_source=substack&utm_medium=email)
