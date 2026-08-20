@@ -20,6 +20,8 @@ sources:
   - id: clipping-ai-native-deadlock
     title: "AI native時代の袋小路 ― 見立てる力はどこから来るのか"
     resource: "00_Clippings/2026-08-18-AI native時代の袋小路 ― 見立てる力はどこから来るのか - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing.md"
+  
+publish: true
 ---
 # 生成AI時代におけるエンジニアの在り方と5つのコアスキル (Delivery Reinvention)
 
