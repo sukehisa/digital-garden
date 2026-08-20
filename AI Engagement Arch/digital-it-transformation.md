@@ -11,6 +11,8 @@ sources:
   - id: daily-2026-08-01
     title: "2026-08-01 Daily Note"
     resource: "01_Daily/2026-08-01.md"
+
+publish: true
 ---
 # AIを活用したデジタル・ITの自社取り戻しと企業変革 (AI Transform)
 
